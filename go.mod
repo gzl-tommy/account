@@ -10,5 +10,5 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/tietang/dbx v1.0.1
-	github.com/tietang/props v2.2.0+incompatible
+	github.com/tietang/props/v3 v3.1.0
 )
