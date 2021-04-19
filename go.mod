@@ -3,7 +3,7 @@ module github.com/gzl-tommy/account
 go 1.15
 
 require (
-	github.com/gzl-tommy/infra v0.1.3
+	github.com/gzl-tommy/infra v0.1.6
 	github.com/kataras/iris/v12 v12.1.8
 	github.com/segmentio/ksuid v1.0.3
 	github.com/shopspring/decimal v1.2.0
