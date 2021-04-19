@@ -148,10 +148,10 @@ github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/ad
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.0/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.9.0/go.mod h1:vNeuVxBJEsws4ogUvrchl83t/GYV9WGTSLVdBhOQFDY=
-github.com/gzl-tommy/go-eureka-client/eureka v0.0.0-20210419040659-5d5d866e81b0 h1:Iw+ki9Y1OIrCbkSvrmhcYrrAtivYTJPS+bUa7j053B4=
-github.com/gzl-tommy/go-eureka-client/eureka v0.0.0-20210419040659-5d5d866e81b0/go.mod h1:I18BpxDDU/NAucSq5P+LYp6dcFYHt27uSQn4CLOSn5U=
-github.com/gzl-tommy/infra v0.1.6 h1:TdgDOyetmJIyc6eBQIdtS9y4iuZpzi8Ak/GPWj9QX2Q=
-github.com/gzl-tommy/infra v0.1.6/go.mod h1:lbS8OteOgG8rLZ7zPtT/sK2RXc/VwbOuD3JKSeUWD/k=
+github.com/gzl-tommy/go-eureka-client/eureka v0.0.0-20210419090704-f88bf25d8af0 h1:Rm9+MoLO3Q5FWx75HSsx5dd2U0ENmZNSs9xOZCmecOA=
+github.com/gzl-tommy/go-eureka-client/eureka v0.0.0-20210419090704-f88bf25d8af0/go.mod h1:I18BpxDDU/NAucSq5P+LYp6dcFYHt27uSQn4CLOSn5U=
+github.com/gzl-tommy/infra v0.1.7 h1:z/K4gKfMtg7BXdXDRZSsXvMF5raCOIxqw6UJC4boezo=
+github.com/gzl-tommy/infra v0.1.7/go.mod h1:/T+jSCTwXrDgfrTzqHoS9n+qSeU5UC9LeQK4pKPkE3A=
 github.com/hashicorp/consul/api v1.4.0/go.mod h1:xc8u05kyMa3Wjr9eEAsIAo3dg8+LywT5E/Cl7cNS5nU=
 github.com/hashicorp/consul/sdk v0.4.0/go.mod h1:fY08Y9z5SvJqevyZNy6WWPXiG3KwBPAvlcdx16zZ0fM=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
